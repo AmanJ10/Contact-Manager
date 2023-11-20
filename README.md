@@ -41,7 +41,8 @@ This repository contains the backend implementation of MyContacts, a simple cont
 Feel free to explore the code and contribute to the project! If you encounter any issues or have suggestions, please open an [issue](https://github.com/AmanJ10/Contact-Manager/issues).
 
 Image showing the GET request (all contacts of the User are shown).
-![image](https://github.com/AmanJ10/Contact-Manager/assets/83915557/48d4c49a-67c2-46c3-9d22-488f6e26e112)
+![Screenshot 2023-11-20 221231](https://github.com/AmanJ10/Contact-Manager/assets/83915557/90ce6fab-8010-4e02-809d-ab7ac78c18a4)
+
 
 
 
